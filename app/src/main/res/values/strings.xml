@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">World Clock</string>
+
+    <string-array name="cityNames">
+        <item>New York City, NY</item>
+        <item>Chicago, IL</item>
+        <item>Mexico City, Mexico</item>
+        <item>Denver, CO</item>
+        <item>Los Angeles, CA</item>
+        <item>Anchorage, AK</item>
+        <item>Honolulu, HI</item>
+        <item>Seoul, South Korea</item>
+        <item>Bangkok, Thailand</item>
+        <item>New Delhi, India</item>
+        <item>Tehran, Iran</item>
+        <item>Moscow, Russia</item>
+        <item>Rome, Italy</item>
+        <item>London, United Kingdom</item>
+        <item>Buenos Aires, Argentina</item>
+        <item>Lima, Peru</item>
+    </string-array>
+</resources>
