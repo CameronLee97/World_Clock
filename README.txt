@@ -1,5 +1,5 @@
 #World_Clock
-(This is a duplicate README of the README.me from the github directory.)
+(This is a duplicate README of the README.me)
 
 I used a "Nexus 5X API 25 x86" virtual device with Android Studio in order to run application, but I've also used a "Pixel API 25" as well as a "Galaxy Nexus API 25" virtual device. Some of the methods require a minimum SDK of 17. This has been adjusted in the app's gradle.build file. The app has three interactable features:
 
